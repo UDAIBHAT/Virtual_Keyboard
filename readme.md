@@ -32,6 +32,6 @@ git clone https://github.com/UDAIBHAT/Virtual_Keyboard.git
 <br>
 <h3> Live Link </h3>
 
-<a href=""> click it! </a>
+<a href="https://udaibhat.github.io/Virtual_Keyboard/"> click it! </a>
 
 <br>
